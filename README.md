@@ -8,3 +8,4 @@
 * Removed from index ('git reset' which is the exact opposite of 'git add')
 * Tried out kdiff3 with difftool command
 * Added a sample gitignore file
+* Multiline commit message
