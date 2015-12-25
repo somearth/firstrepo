@@ -9,3 +9,6 @@
 * Tried out kdiff3 with difftool command
 * Added a sample gitignore file
 * Multiline commit message
+* List out staged changes before/after adding to index
+* List out commits that are not yet pushed
+* Revert the workspace changes to match that in the index (git checkout -- <filename>)
