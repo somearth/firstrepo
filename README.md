@@ -11,4 +11,6 @@
 * Multiline commit message
 * List out staged changes before/after adding to index
 * List out commits that are not yet pushed
-* Revert the workspace changes to match that in the index (git checkout -- <filename>)
+* Revert the workspace copy to match that in the index (git checkout <filename>)
+* Revert the index copy to match that in the local branch HEAD (git reset <filename>)
+* Revert the workspace copy to match that in the local branch HEAD (first reset, then checkout)
